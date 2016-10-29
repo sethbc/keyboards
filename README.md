@@ -1,21 +1,23 @@
 # Keyboards
 ## Current Keyboards
-1. 2x Ergodox Infinity (78g Zealios)
-1. 2x Ergodox EZ (1x Gateron Black; 1x Gateron Green)
-1. 2x Planck (1x Gateron Green; 1x 78g Zealios)
+1. Ergodox Infinity (78g Zealios) x2
+1. Ergodox EZ (1x Gateron Black; 1x Gateron Green) x2
+1. Planck (1x Gateron Green; 1x 78g Zealios) x2
 1. Preonic (78g Zealios)
-1. 2x Hasu BT HHKB (55g)
+1. Hasu BT HHKB (55g) x2
 1. Hasu BT HHKB Type S (55g)
-1. 2x Novatouch (55g)
-1. 2x Pok3r (MX Clear)
-1. 2x Custom 60% MX (78g Zealios)
+1. Novatouch (55g) x2
+1. Pok3r (MX Clear) x2
+1. Custom 60% MX (78g Zealios) x2
 1. Custom 60% Alps (Alps SKCM Salmon)
 1. Apple Extended Keyboard II (Alps SKCM Cream Damped)
 1. Model F XT
 1. Model F AT
 1. IBM 5251 (BeamSpring w/ xwhatsit controller/solenoid driver)
 1. Atreus (Mathias QC)
-1. 2x KUL ES-87 (MX Clear)
+1. KUL ES-87 (MX Clear) x2
+1. MX Code (MX Clear) x2
+1. Kinesis Advantage Pro x2
 
 ## Keyboards on order / in process
 1. Ergodox Infinity (Alps SKCM Blue)
