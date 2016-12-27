@@ -20,11 +20,13 @@
 1. Kinesis Advantage Pro x2
 
 ## Keyboards on order / in process
+1. Model MF (Full Size / Industrial Case)
 1. Ergodox Infinity (Alps SKCM Blue)
 1. TheVan (Alps SKCM Orange)
-1. Keyboard.io Model 01
-1. Zeal RGB (78g Zealiostotles)
+1. Keyboard.io Model 01 (Mathias QC)
+1. Zeal RGB (78g Zealios)
 1. Sentraq 60% Underglow
+1. KBD75 (MOD-H)
 
 # Switches
 ## Current Switches
@@ -33,16 +35,19 @@
 1. Alps SKCM Orange
 1. Alps SKCM Cream Damped
 1. 78g Zealios
+1. Originative MOD-H
 1. Gateron Green
 1. Gateron Black
 1. 55g Topre
 1. Mathias Quiet Clicks
+1. Buckling Springs
+1. Beamsprings
 
 ## Interested Switches
 1. Alps SKCM Green
-1. Originative MOD-H (On order)
 
 # Keysets
+## Current Keysets
 1. Pulse SA
 1. Jukebox SA
 1. Carbon SA
@@ -52,4 +57,5 @@
 1. Hyperfuse GMK
 1. Sky Dolch GMK
 
-
+## On Order
+1. Dasher SA
