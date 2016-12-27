@@ -18,6 +18,7 @@
 1. KUL ES-87 (MX Clear) x2
 1. MX Code (MX Clear) x2
 1. Kinesis Advantage Pro x2
+1. IBM 82G5920 Model M
 
 ## Keyboards on order / in process
 1. Model MF (Full Size / Industrial Case)
