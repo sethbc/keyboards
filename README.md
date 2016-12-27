@@ -2,7 +2,7 @@
 ## Current Keyboards
 1. Ergodox Infinity (78g Zealios) x2
 1. Ergodox EZ (1x Gateron Black; 1x Gateron Green) x2
-1. Planck (1x Gateron Green; 1x 78g Zealios) x2
+1. Planck (1x Gateron Green; 1x 78g Zealios; 1x Alps SKCM Cream) x3
 1. Preonic (78g Zealios)
 1. Hasu BT HHKB (55g) x2
 1. Hasu BT HHKB Type S (55g)
