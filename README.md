@@ -1,15 +1,17 @@
 # Keyboards
 ## Current Keyboards
+1. Zeal RGB (78g Zealios with Zealencios)
 1. Ergodox Infinity (78g Zealios) x2
 1. Ergodox EZ (1x Gateron Black; 1x Gateron Green) x2
-1. Planck (1x Gateron Green; 1x 78g Zealios) x2
+1. Planck (1x Gateron Green; 1x 78g Zealios; 1x Alps SKCM Salmon) x2
 1. Preonic (78g Zealios)
+1. TheVan (Alps SKCM Orange)
 1. Hasu BT HHKB (55g) x2
 1. Hasu BT HHKB Type S (55g)
 1. Novatouch (55g) x2
 1. Pok3r (MX Clear) x2
 1. Custom 60% MX (78g Zealios) x2
-1. Custom 60% Alps (Alps SKCM Salmon)
+1. Custom 60% Alps (Alps SKCM Cream)
 1. Apple Extended Keyboard II (Alps SKCM Cream Damped)
 1. Model F XT
 1. Model F AT
@@ -21,10 +23,9 @@
 
 ## Keyboards on order / in process
 1. Ergodox Infinity (Alps SKCM Blue)
-1. TheVan (Alps SKCM Orange)
 1. Keyboard.io Model 01
-1. Zeal RGB (78g Zealiostotles)
 1. Sentraq 60% Underglow
+1. 
 
 # Switches
 ## Current Switches
@@ -32,6 +33,7 @@
 1. Alps SKCM Salmon
 1. Alps SKCM Orange
 1. Alps SKCM Cream Damped
+1. Alps SKCM Cream
 1. 78g Zealios
 1. Gateron Green
 1. Gateron Black
@@ -40,7 +42,6 @@
 
 ## Interested Switches
 1. Alps SKCM Green
-1. Originative MOD-H (On order)
 
 # Keysets
 1. Pulse SA
