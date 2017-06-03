@@ -20,12 +20,14 @@
 1. KUL ES-87 (MX Clear) x2
 1. MX Code (MX Clear) x2
 1. Kinesis Advantage Pro x2
+1. IBM 82G5920 Model M
+1. KBD75 (MOD-H)
+1. Sentraq 60% Underglow (JSpaced Gateron Green)
 
 ## Keyboards on order / in process
+1. Model MF (Full Size / Industrial Case)
 1. Ergodox Infinity (Alps SKCM Blue)
 1. Keyboard.io Model 01
-1. Sentraq 60% Underglow
-1. 
 
 # Switches
 ## Current Switches
@@ -35,15 +37,19 @@
 1. Alps SKCM Cream Damped
 1. Alps SKCM Cream
 1. 78g Zealios
+1. Originative MOD-H
 1. Gateron Green
 1. Gateron Black
 1. 55g Topre
 1. Mathias Quiet Clicks
+1. Buckling Springs
+1. Beamsprings
 
 ## Interested Switches
 1. Alps SKCM Green
 
 # Keysets
+## Current Keysets
 1. Pulse SA
 1. Jukebox SA
 1. Carbon SA
@@ -53,4 +59,5 @@
 1. Hyperfuse GMK
 1. Sky Dolch GMK
 
-
+## On Order
+1. Dasher SA
